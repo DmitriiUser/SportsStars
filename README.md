@@ -14,7 +14,7 @@ Simple video displaying how the athlete user can change their profile image
 https://github.com/DmitriiUser/SportsStars/assets/107858231/b7e39ed3-502b-4ca6-94fa-0bf085ebd037
 
 
-Last video explaing how a coach can log in and find athletes online
+Last video explaing how a coach can log in and find athletes
 
 
 
